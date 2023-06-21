@@ -1,0 +1,62 @@
+header, main, nav, footer {
+    text-align: center;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+
+.nameplate {
+    text-align: center;
+    font-size: 1.5em;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+.nameplate h1 {
+    margin-bottom: 0;
+}
+
+.navbar a{
+    padding: 15px 15px 4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: white;
+}
+
+.navbar a:hover {
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: 1.6em;
+}
+
+main .fluff_container {
+    margin-top: 80px;
+}
+
+main img {
+    border-radius: 400px;
+    width: 500px;
+}
+
+.content {
+    flex: 1 0 auto;
+}
+
+.footer {
+    flex-shrink: 0;
+}
