@@ -80,3 +80,39 @@ footer .text_container {
     margin-top: auto;
     margin-bottom: auto;
 }
+
+table {
+    margin: 60px auto;
+}
+
+td {
+    padding-right: 10px;
+    font-size: 1.8em;
+}
+
+td strong {
+    color: orange;
+}
+
+#table-header {
+    background-color: #351a00;
+}
+
+.table-row {
+    background-color: #753900;
+}
+
+#interests {
+    width: 700px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 1.5em;
+}
+
+#interests li {
+    padding-bottom: 20px;
+}
+
+.hobby {
+    color: yellow;
+}
