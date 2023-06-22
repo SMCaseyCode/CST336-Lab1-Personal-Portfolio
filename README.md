@@ -10,4 +10,5 @@ Challenges faced:
 What I learned:
 - Higher understanding of flex box
 - When to use 'id' and 'class'
+- Iframe usage, how to place a google form into a site
 - How to center a div
