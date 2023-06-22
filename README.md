@@ -1,2 +1,13 @@
-# portfolio
-HTML and CSS intro
+# Professional Basic Portfolio
+CST336 lab 1: Basic portfolio site to practice HTML and CSS concepts. 
+
+Challenges faced:
+- Getting CSS to cooperate
+- Understanding flex box
+- Responsive design
+- How to force a footer to the bottom of the page
+
+What I learned:
+- Higher understanding of flex box
+- When to use 'id' and 'class'
+- How to center a div
