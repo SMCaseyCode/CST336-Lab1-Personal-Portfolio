@@ -83,6 +83,7 @@ footer .text_container {
     flex-direction: column;
     margin-top: auto;
     margin-bottom: auto;
+    font-weight: 100;
 }
 
 table {
