@@ -19,14 +19,16 @@ body {
 
 .nameplate {
     text-align: center;
-    font-size: 1.5em;
-    margin-left: 20vw;
-    margin-right: 20vw;
+    margin-left: 25vw;
+    margin-right: 25vw;
 }
 
 .nameplate h1 {
     margin-bottom: 0;
-    font-size: 2.8em;
+    margin-top: 20px;
+    font-size: 6em;
+    font-family: 'Yellowtail', cursive;
+    font-weight: 400;
 }
 
 .navbar a{
@@ -83,7 +85,7 @@ footer .text_container {
     flex-direction: column;
     margin-top: auto;
     margin-bottom: auto;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 table {
